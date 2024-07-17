@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-16T22:49:26.011Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="9ycwCJ6YXya83RkuzWDP" version="24.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-17T00:08:46.009Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="ufTGGbHXi_Ov757c_O6X" version="24.6.5" type="github">
   <diagram name="Page-1" id="u7FDJixQ2gVYrPvAX92j">
-    <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="819" dy="441" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -15,14 +15,14 @@
             <mxPoint x="150" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pO73NwPLxUw7Y36HaVpF-54" value="" style="group;align=center;verticalAlign=top;strokeColor=none;fillColor=default;" vertex="1" connectable="0" parent="1">
+        <mxCell id="pO73NwPLxUw7Y36HaVpF-54" value="" style="group;align=center;verticalAlign=top;strokeColor=none;fillColor=none;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="160" y="220" width="142" height="56" as="geometry" />
         </mxCell>
         <mxCell id="pO73NwPLxUw7Y36HaVpF-51" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Folder_Blank.svg;" vertex="1" parent="pO73NwPLxUw7Y36HaVpF-54">
           <mxGeometry width="37.54022988505747" height="30.467432950191576" as="geometry" />
         </mxCell>
         <mxCell id="pO73NwPLxUw7Y36HaVpF-53" value="Assets" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="pO73NwPLxUw7Y36HaVpF-54">
-          <mxGeometry x="44.06896551724138" y="13" width="32.09961685823755" height="30" as="geometry" />
+          <mxGeometry x="44.06896551724138" y="3" width="32.09961685823755" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pO73NwPLxUw7Y36HaVpF-56" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="109" y="140" width="171" height="56" as="geometry" />
@@ -33,23 +33,23 @@
         <mxCell id="pO73NwPLxUw7Y36HaVpF-47" value="Project(Gabby)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="pO73NwPLxUw7Y36HaVpF-56">
           <mxGeometry x="53.06896551724138" y="13" width="117.93103448275862" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pO73NwPLxUw7Y36HaVpF-57" value="" style="group;align=center;verticalAlign=top;strokeColor=none;fillColor=default;" vertex="1" connectable="0" parent="1">
+        <mxCell id="pO73NwPLxUw7Y36HaVpF-57" value="" style="group;align=center;verticalAlign=top;strokeColor=none;fillColor=none;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="160" y="290" width="142" height="56" as="geometry" />
         </mxCell>
         <mxCell id="pO73NwPLxUw7Y36HaVpF-58" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Folder_Blank.svg;" vertex="1" parent="pO73NwPLxUw7Y36HaVpF-57">
           <mxGeometry width="37.54022988505747" height="30.467432950191576" as="geometry" />
         </mxCell>
         <mxCell id="pO73NwPLxUw7Y36HaVpF-59" value="Seq" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="pO73NwPLxUw7Y36HaVpF-57">
-          <mxGeometry x="44.06896551724138" y="13" width="32.09961685823755" height="30" as="geometry" />
+          <mxGeometry x="44.06896551724138" y="3" width="32.09961685823755" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pO73NwPLxUw7Y36HaVpF-60" value="" style="group;align=center;verticalAlign=top;strokeColor=none;fillColor=default;" vertex="1" connectable="0" parent="1">
+        <mxCell id="pO73NwPLxUw7Y36HaVpF-60" value="" style="group;align=center;verticalAlign=top;strokeColor=none;fillColor=none;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="160" y="360" width="142" height="56" as="geometry" />
         </mxCell>
         <mxCell id="pO73NwPLxUw7Y36HaVpF-61" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Folder_Blank.svg;" vertex="1" parent="pO73NwPLxUw7Y36HaVpF-60">
           <mxGeometry width="37.54022988505747" height="30.467432950191576" as="geometry" />
         </mxCell>
         <mxCell id="pO73NwPLxUw7Y36HaVpF-62" value="Assets" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="pO73NwPLxUw7Y36HaVpF-60">
-          <mxGeometry x="44.06896551724138" y="13" width="32.09961685823755" height="30" as="geometry" />
+          <mxGeometry x="44.06896551724138" y="3" width="32.09961685823755" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
